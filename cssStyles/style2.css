@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+body {
+  background-color: #b6b6b6;
+}
+
+.title {
+  font-family: "pattaya";
+  text-align: center;
+  font-size: 28px;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.logo {
+  margin-right: 150px;
+}
+
+.navbar {
+  display: flex;
+}
+
+.hardDisk {
+  font-family: "prata";
+  font-size: 30px;
+  text-align: center;
+}
+
+.paragraph1 {
+  font-family: "noto serif";
+  font-size: 21px;
+  text-align: center;
+}
+
+.paragraph2 {
+  font-family: "noto serif";
+  font-size: 21px;
+  text-align: center;
+}
+
+.ul1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.paragraph3 {
+  font-family: "noto serif";
+  font-size: 21px;
+  text-align: center;
+}
+
+.opticalDisk {
+  font-family: "prata";
+  font-size: 30px;
+  text-align: center;
+}
+
+.paragraph4 {
+  font-family: "noto serif";
+  font-size: 21px;
+  text-align: center;
+}
+
+.paragraph5 {
+  font-family: "noto serif";
+  font-size: 21px;
+  text-align: center;
+}
+
+.ul2 {
+  font-size: 22px;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+}
+
+.a1 {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.flashCards {
+  font-family: "prata";
+  font-size: 30px;
+  text-align: center;
+}

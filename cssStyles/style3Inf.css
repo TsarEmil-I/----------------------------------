@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+body {
+  background-color: #b6b6b6;
+}
+
+.title {
+  font-family: "pattaya";
+  text-align: center;
+  font-size: 28px;
+}
+
+.subtitle {
+  font-family: "caveat";
+  text-align: center;
+  font-size: 40px;
+}
+
+.paragraph1I {
+  font-family: "balsamiq sans";
+  text-align: center;
+  font-size: 28px;
+}
+
+.paragraph2I {
+  font-family: "balsamiq sans";
+  text-align: center;
+  font-size: 28px;
+}
+
+.a1 {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  margin-right: 70px;
+}
+
+.a1 {
+  font-size: 25px;
+  display: flex;
+  justify-content: space-around;
+}
